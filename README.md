@@ -4,14 +4,17 @@ This repository contains a Power BI project file (Pbix) and a dataset for analyz
 
 ## Screenshots
 
+**Demographics**
 ![Screenshot 1](https://github.com/Chitransh-Jaiswal/Employee-Survey-Analysis/assets/152681701/cb33c09a-8644-48d1-9643-dfba647d5365)
-*Description of screenshot 1: Demographics*
 
+
+**Happiness index**
 ![Screenshot 2](https://github.com/Chitransh-Jaiswal/Employee-Survey-Analysis/assets/152681701/81f8d63d-952f-4d5c-a632-c7bf6960e32e)
-*Description of screenshot 2: Happiness index*
 
+
+**Discussing Financial Parity**
 ![Screenshot 3](https://github.com/Chitransh-Jaiswal/Employee-Survey-Analysis/assets/152681701/876f30f1-870a-4410-af62-6a57ead39eb2)
-*Description of screenshot 3: Discussing Financial Parity*
+
 
 ## Dataset Overview
 
